@@ -1,0 +1,22 @@
+{
+  "name": "playwright-js-eventhub-framework",
+  "version": "1.0.0",
+  "description": "Automating the Eventhub",
+  "homepage": "https://github.com/JALASHREE11/playwright-js-eventhub-framework#readme",
+  "bugs": {
+    "url": "https://github.com/JALASHREE11/playwright-js-eventhub-framework/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JALASHREE11/playwright-js-eventhub-framework.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.6"
+  }
+}
